@@ -13,7 +13,6 @@ int maxCoins(vector<int>& piles) {
             i = i-2;
             j++;
         }
-        
+		
         return ans;
-        
 }
